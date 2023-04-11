@@ -2,8 +2,8 @@
 
 
 <div>
-  <img src="images/v1 heuristic quality.png" alt="1" style="width:30%;">
-  <img src="images/v1 lstm quality.png" alt="2" style="width:30%;">
+  <img src="images/v1 heuristic quality.png" alt="1" style="width:45%;">
+  <img src="images/v1 lstm quality.png" alt="2" style="width:45%;">
 </div>
 
 <!-- 두 번째 행 -->
