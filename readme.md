@@ -1,7 +1,13 @@
 
 
 <div class="user-text">
-   <p>1) ABR 기법 내 Heuristic 기법의 딥러닝 기반 성능 향상 주제의 캡스톤디자인 연구 리포지토리 입니다.</p>
+   <p style="font-size: 16px; font-weight: bold;">ABR 기법 내 Heuristic 기법의 딥러닝 기반 성능 향상 주제의 캡스톤디자인 연구 리포지토리 입니다.</p>
+</div>
+
+
+
+<div class="user-text">
+   <p>1) Big Buck Bunny 영상의 딥러닝 적용 비교 </p>
 </div>
 <div>
   <img src="images/v1 heuristic quality.png" alt="1" style="width:45%;">
