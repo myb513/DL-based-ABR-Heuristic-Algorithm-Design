@@ -1,19 +1,41 @@
-캡스톤 디자인 논문 연구를 위한 리포지토리 입니다.
 
-<!-- 첫 번째 행 -->
-| ![1](./images/v1 heuristic quality.png) | ![2](./images/v1 lstm quality.png) |
+
+
+<div>
+  <img src="images/v1 heuristic quality.png" alt="1" style="width:50%;">
+  <img src="images/v1 lstm quality.png" alt="2" style="width:50%;">
+</div>
 
 <!-- 두 번째 행 -->
-| ![3](./images/v1 heuristic buffer.png) | ![4](./images/v1 lstm buffer.png) |
+<div>
+  <img src="./images/v1 heuristic buffer.png" alt="3" style="width:50%;">
+  <img src="./images/v1 lstm buffer.png" alt="4" style="width:50%;">
+</div>
 
 <!-- 세 번째 행 -->
-| ![5](./images/v2 heurisitc quality.png) | ![6](./images/v2 lstm quality.png) |
+<div>
+  <img src="./images/v2 heurisitc quality.png" alt="5" style="width:50%;">
+  <img src="./images/v2 lstm quality.png" alt="6" style="width:50%;">
+</div>
 
 <!-- 네 번째 행 -->
-| ![7](./images/heuristic v2 buffer.png) | ![8](./images/dlbased v2.png) |
+<div>
+  <img src="./images/heuristic v2 buffer.png" alt="7" style="width:50%;">
+  <img src="./images/dlbased v2.png" alt="8" style="width:50%;">
+</div>
 
 <!-- 다섯 번째 행 -->
-| ![9](./images/v3 heuristic quality.png) | ![10](./images/v3 lstm qualities.png) |
+<div>
+  <img src="./images/v3 heuristic quality.png" alt="9" style="width:50%;">
+  <img src="./images/v3 lstm qualities.png" alt="10" style="width:50%;">
+</div>
 
 <!-- 여섯 번째 행 -->
-| ![11](./images/v3 heuristic buffer.png) | ![12](./images/v3 lstm buffer.png) |
+<div>
+  <img src="./images/v3 heuristic buffer.png" alt="11" style="width:50%;">
+  <img src="./images/v3 lstm buffer.png" alt="12" style="width:50%;">
+</div>
+
+
+
+
