@@ -1,7 +1,7 @@
 
 
 <div class="user-text">
-   <p style="font-size: 16px; font-weight: bold;">ABR 기법 내 Heuristic 기법의 딥러닝 기반 성능 향상 주제의 캡스톤디자인 연구 리포지토리 입니다.</p>
+   <p style="font-size: 29px; font-weight: bold;">ABR 기법 내 Heuristic 기법의 딥러닝 기반 성능 향상 주제의 캡스톤디자인 연구 리포지토리 입니다.</p>
 </div>
 
 
