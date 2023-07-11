@@ -1,6 +1,6 @@
 ## Loss 줄이기 대작전
 
-### 5종류 파일별 평균 loss (0710 - 오전 11시)
+### 5종류 파일별 평균 loss, RMSE (0710 - 오전 11시)
 
 ```
 Average Loss for norway_bus: 0.8200654978661434
@@ -23,7 +23,7 @@ Average Loss for norway_tram: 1.0874163205236462
 Average RMSE for norway_tram: 0.8635825068434021
 ```
 
-### 5종류 파일별 평균 loss (0710 - 오후 12시)
+### 5종류 파일별 평균 loss, RMSE (0710 - 오후 12시)
 #### timestep 2배 늘리고, learning rate 0.005로 설정
 ```
 Average Loss for norway_bus: 0.45112204260152317
@@ -43,4 +43,26 @@ Average RMSE for norway_train: 1.6507045486163885
 
 Average Loss for norway_tram: 0.624087049692337
 Average RMSE for norway_tram: 0.6825757067016001
+```
+
+### 5종류 파일별 평균 loss, RMSE (0711 - 오후 2시)
+#### 모델 층 구조 추가 32개짜리 레이어?
+```
+Average Loss for norway_bus: 0.41885597238560085
+Average RMSE for norway_bus: 2.432128062731251
+
+Average Loss for norway_car: 0.5383156654424965
+Average RMSE for norway_car: 1.0910070509313299
+
+Average Loss for norway_ferry: 0.5598084934987128
+Average RMSE for norway_ferry: 1.3276279754051459
+
+Average Loss for norway_metro: 0.4829714709892869
+Average RMSE for norway_metro: 0.9668349026835052
+
+Average Loss for norway_train: 0.4275669992147457
+Average RMSE for norway_train: 1.6288726327126775
+
+Average Loss for norway_tram: 0.6039361167931929
+Average RMSE for norway_tram: 0.6506575575299729
 ```
