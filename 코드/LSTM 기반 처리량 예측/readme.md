@@ -100,6 +100,6 @@ Average RMSE for norway_tram: 0.6599491557924633
 
 <div class="user-image">
         <img src="시각자료/epoch별 정확도 (10~50).pngg" alt="" />
-      </div>
+</div>
 
 
