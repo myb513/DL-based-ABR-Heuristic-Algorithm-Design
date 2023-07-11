@@ -99,7 +99,7 @@ Average RMSE for norway_tram: 0.6599491557924633
 #### 가장 정확도가 높은 epoch 값을 추적하는 그래프를 그려보자
 
 <div class="user-image">
-        <img src="시각자료/epoch별 정확도 (10~50).pngg" alt="" />
+        <img src="시각자료/epoch별 정확도 (10~50).png" alt="" />
 </div>
 
 
