@@ -1,6 +1,75 @@
+import numpy as np
+import os
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.metrics import mean_squared_error
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import LSTM, Dense
+import tensorflow as tf
+from keras.optimizers import Adam
 import time
 
-# ...
+class LossCallback(tf.keras.callbacks.Callback):
+    def __init__(self):
+        self.total_loss = 0.0
+
+    def on_epoch_end(self, epoch, logs=None):
+        self.total_loss += logs['loss']
+
+# 데이터를 로드하는 함수
+def load_data(file_path):
+    data = []
+    with open(file_path, 'r') as file:
+        for line in file:
+            line = line.strip().split('\t')
+            time_stamp = float(line[0])
+            throughput = float(line[1])
+            data.append([time_stamp, throughput])
+    return np.array(data)
+
+# 데이터 전처리 함수
+def preprocess_data(data, timestep):
+    # 정규화
+    scaler = MinMaxScaler()
+    data_scaled = scaler.fit_transform(data)
+
+    # 입력 데이터와 타깃 데이터 분리
+    X, y = [], []
+    for i in range(len(data_scaled) - timestep):
+        X.append(data_scaled[i:i+timestep, 0])
+        y.append(data_scaled[i+timestep, 1])
+
+    X = np.array(X)
+    y = np.array(y)
+    return X, y, scaler
+
+# LSTM 모델 구성 함수
+def build_lstm_model(input_shape):
+    model = Sequential()
+    model.add(LSTM(64, input_shape=input_shape, return_sequences=True))
+    model.add(LSTM(32))
+    model.add(Dense(1))
+    return model
+
+# 데이터셋 경로
+dataset_folder = 'dataset/'
+file_counts = {
+    'norway_bus': 23,
+    'norway_car': 12,
+    'norway_ferry': 20,
+    'norway_metro': 10,
+    'norway_train': 21,
+    'norway_tram': 56
+}
+
+# 모델 학습 파라미터
+batch_size = 32
+epochs = 10
+timestep = 10  # timestep을 10로 설정
+test_ratio = 0.3  # 테스트 데이터 비율 (train: 0.7, test: 0.3)
+
+# 결과 저장 경로
+result_folder = 'results/'
+os.makedirs(result_folder, exist_ok=True)
 
 # 각 파일에 대해 모델을 학습하고 예측하는 과정
 for file_prefix, count in file_counts.items():
@@ -22,7 +91,13 @@ for file_prefix, count in file_counts.items():
         # LSTM 모델 구성
         model = build_lstm_model(input_shape=(timestep, 1))  # 입력 차원을 (timestep, 1)로 변경
 
-        custom_adam = Adam(learning_rate=0.005, beta_1=0.9, beta_2=0.999, epsilon=1e-07, amsgrad=False, decay=0.0)
+        custom_adam = Adam(learning_rate=0.005,
+                           beta_1=0.9,  # 일차 모멘텀 추정값에 대한 지수 감쇠율, 일반적으로 0.9 권장
+                           beta_2=0.999,  # 이차 모멘텀 추정값에 대한 지수 감쇠율, 일반적으로 0.999 권장
+                           epsilon=1e-07,  # 0으로 나누는 것을 방지하기 위한 작은 상수
+                           amsgrad=False,  # AMSGrad를 사용할지 여부 (논문에서 제안된 Adam의 변형)
+                           decay=0.0
+                           )
 
         # 모델 컴파일
         model.compile(optimizer=custom_adam, loss='mean_squared_error')
