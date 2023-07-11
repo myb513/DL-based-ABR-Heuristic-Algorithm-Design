@@ -103,3 +103,79 @@ Average RMSE for norway_tram: 0.6599491557924633
 </div>
 
 -> 그래프를 보면 10~20 epoch로 하면 될 것 같다는 생각을 함. why? 합리적으로 rmse 값이 전체적으로 낮은 부분이니깐!
+
+### 서로다른 층 구조 모델 3개 비교 loss, RMSE (0711 - 오후 5시)
+#### 시각화 코드 에러 이슈로 콘솔출력 값 수기 입력
+```
+# 모델 1
+Average Loss for norway_bus: 0.4277389136993367
+Average RMSE for norway_bus: 2.483556167239904
+
+# 모델 2
+Average Loss for norway_bus: 0.423200525464895
+Average RMSE for norway_bus: 2.3877440547929756
+
+# 모델 3
+Average Loss for norway_bus: 0.44199857407290005
+Average RMSE for norway_bus: 2.3445965110316576
+
+# 모델 1
+Average Loss for norway_car: 0.5266553272182742
+Average RMSE for norway_car: 1.1137567739190306
+
+# 모델 2
+Average Loss for norway_car: 0.5419865385629237
+Average RMSE for norway_car: 1.065013561803757
+
+# 모델 3
+Average Loss for norway_car: 0.5278499145060778
+Average RMSE for norway_car: 1.2076046218577345
+
+# 모델 1
+Average Loss for norway_ferry: 0.5660448386799544
+Average RMSE for norway_ferry: 1.3476696091517664
+
+# 모델 2
+Average Loss for norway_ferry: 0.547693053074181
+Average RMSE for norway_ferry: 1.3306689245935162
+
+# 모델 3
+Average Loss for norway_ferry: 0.541606237925589
+Average RMSE for norway_ferry: 1.2782834034212676
+
+# 모델 1
+Average Loss for norway_metro: 0.4791893146932125
+Average RMSE for norway_metro: 0.9578108050957672
+
+# 모델 2
+Average Loss for norway_metro: 0.4765708018094301
+Average RMSE for norway_metro: 0.9282643189992317
+
+# 모델 3
+Average Loss for norway_metro: 0.4830556891858578
+Average RMSE for norway_metro: 0.9699208809326457
+
+# 모델 1
+Average Loss for norway_train: 0.4292234616309759
+Average RMSE for norway_train: 1.610844508434629
+
+# 모델 2
+Average Loss for norway_train: 0.43025303889243377
+Average RMSE for norway_train: 1.6481098579220819
+
+# 모델 3
+Average Loss for norway_train: 0.41436857725715354
+Average RMSE for norway_train: 1.610064776048801
+
+# 모델 1
+Average Loss for norway_tram: 0.590874460159934
+Average RMSE for norway_tram: 0.6413066036774696
+
+# 모델 2
+Average Loss for norway_tram: 0.598417838885715
+Average RMSE for norway_tram: 0.6486776374131601
+
+# 모델 3
+Average Loss for norway_tram: 0.5909878046784017
+Average RMSE for norway_tram: 0.6345559510082625
+```
