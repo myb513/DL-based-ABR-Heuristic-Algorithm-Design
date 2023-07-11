@@ -102,4 +102,4 @@ Average RMSE for norway_tram: 0.6599491557924633
         <img src="시각자료/epoch별 정확도 (10~50).png" alt="" />
 </div>
 
-
+-> 그래프를 보면 10~20 epoch로 하면 될 것 같다는 생각을 함. why? 합리적으로 rmse 값이 전체적으로 낮은 부분이니깐!
