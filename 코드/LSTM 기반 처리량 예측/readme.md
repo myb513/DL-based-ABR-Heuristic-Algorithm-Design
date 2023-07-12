@@ -173,7 +173,8 @@ Average RMSE for norway_tram: 0.6413066036774696
 
 # 모델 2
 Average Loss for norway_tram: 0.598417838885715
-Average RMSE for norway_tram: 0.6486776374131601
+Average RMSE for norway_tram: 0.6486776374131601[Uploading norway_train_merge_result.txt…]()
+
 
 # 모델 3
 Average Loss for norway_tram: 0.5909878046784017
@@ -186,5 +187,27 @@ Average RMSE for norway_tram: 0.6345559510082625
 <div class="user-image">
         <img src="시각자료/epoch별 정확도 (100~500).png" alt="" />
 </div>
+
+### 같은 종류의 파일들을 병합하여 많은 양의 데이터를 학습시켜보자 (0712 - 오전 12시)
+
+```
+Average Loss for norway_bus: 0.48099879175424576
+Average RMSE for norway_bus: 2.5172940979055785
+
+Average Loss for norway_car: 0.3148403521627188
+Average RMSE for norway_car: 1.376522023474511
+
+Average Loss for norway_ferry: 0.1533771799877286
+Average RMSE for norway_ferry: 1.5898911879670978
+
+Average Loss for norway_metro: 0.4496259056031704
+Average RMSE for norway_metro: 0.953003822698219
+
+Average Loss for norway_train: 0.1367283184081316
+Average RMSE for norway_train: 1.560153460898116
+
+Average Loss for norway_tram: 0.17534580454230309
+Average RMSE for norway_tram: 0.6122976128095053
+```
 
 
