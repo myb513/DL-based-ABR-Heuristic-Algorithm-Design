@@ -353,4 +353,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 <div class="user-image">
         <img src="시각자료/714-1 avg rmse.png" alt="" />
 </div>
-
+#### (lr : 0.005, timestep : 5 epoch : 10 batch size : 24, layer : [lstm 64 - fc 32 - lstm 16 - fc 8 - lstm 8 - fc 1] opt : adam )
+<div class="user-image">
+        <img src="시각자료/714-2 avg rmse.png" alt="" />
+</div>
