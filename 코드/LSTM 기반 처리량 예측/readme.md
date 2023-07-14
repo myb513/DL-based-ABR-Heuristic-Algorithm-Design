@@ -345,7 +345,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ### train,test data set 분리 경로 다르게 지정 (0714 - 오후 2시)
 #### 시각화 코드 수정
-####
+#### (lr : 0.005, timestep : 10 epoch : 10 batch size : 32, layer : [lstm 64 - fc 1] opt : adam )
 <div class="user-image">
         <img src="시각자료/714-0 avg rmse.png" alt="" />
 </div>
