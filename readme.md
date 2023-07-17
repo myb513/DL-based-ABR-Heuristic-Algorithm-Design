@@ -482,7 +482,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/82987689-f0d7-43cf-9f1b-475002c0310c)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/dec70ab4-2236-49af-9601-70eef4a843d3)
 
@@ -491,7 +491,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/ac20d6c0-fd82-4e9a-b6f7-cd2198740706)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/2d78fb0e-be8c-4154-93a7-c6236bf7da4d)
 
@@ -501,7 +501,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/46cabc20-7ba4-44e1-a56b-e25c1cfd3787)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/c4d33dec-b1c3-4b02-a6a9-9a9565e751b5)
 
@@ -510,7 +510,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/a4d18d27-6a84-4d86-a17c-26504d35be14)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/69628459-7628-48cf-9f7b-03da8911fbfe)
 
@@ -520,7 +520,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/441aab1c-55f0-4cd8-ad37-09c4ff5e7aa6)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/15d45129-4d4c-4f02-84b9-ffe03c1f01b9)
 
@@ -530,7 +530,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/92cb6485-382d-46d2-b400-a8010b915868)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/5a87f6a7-4f97-4e8a-9186-2047dd4b9914)
 
@@ -540,7 +540,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/359986c6-1541-4297-a8a2-0da4ca048abb)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/483c52d4-4793-467b-ba77-92d5b304fd32)
 
@@ -550,7 +550,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/91335cbe-fcd3-4539-b8ea-e5eaafa22438)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/05c9406c-ccb2-4baf-92d6-b2f98be8689c)
 
@@ -560,7 +560,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/7245624f-99c1-47d2-a679-67e36ffdc1e5)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/ec607508-7a06-4f18-9b54-5a5e32ec007b)
 
@@ -570,7 +570,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/3351fed3-6a03-4362-80b7-25742e07d3b0)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/d6a02ebe-12eb-4284-8a04-e403639d53d2)
 
@@ -581,7 +581,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/d83a7fab-1fd2-45ad-a9b9-e87d9daa2783)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/fcefcefc-cd0f-49ba-820a-9546f3b02532)
 
