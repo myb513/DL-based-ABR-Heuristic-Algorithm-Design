@@ -480,7 +480,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 50번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/bd59f850-c476-4411-9d33-8e6bc592cdbd)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/82987689-f0d7-43cf-9f1b-475002c0310c)
 
@@ -489,7 +489,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 51번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/2197d928-4ee0-4879-bede-5baf8690e532)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/ac20d6c0-fd82-4e9a-b6f7-cd2198740706)
 
@@ -499,7 +499,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 52번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/a76bb82e-7e2d-4de3-b787-beca2747da1a)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/46cabc20-7ba4-44e1-a56b-e25c1cfd3787)
 
@@ -508,7 +508,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 53번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/f8bf1973-e14a-4bb2-a998-cb1887f2fc34)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/a4d18d27-6a84-4d86-a17c-26504d35be14)
 
@@ -518,7 +518,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 54번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/6be6c237-f1a7-4ca0-a571-08bcd99a7feb)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/441aab1c-55f0-4cd8-ad37-09c4ff5e7aa6)
 
@@ -528,7 +528,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 55번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/85e999ce-b793-4658-a55c-4331038ddfe8)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/92cb6485-382d-46d2-b400-a8010b915868)
 
@@ -538,7 +538,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 56번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/2a19a1a6-98c5-40bb-b586-f912121c18bf)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/359986c6-1541-4297-a8a2-0da4ca048abb)
 
@@ -548,7 +548,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 6번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/5b05ed09-0369-41e6-bac8-2461caf8021c)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/91335cbe-fcd3-4539-b8ea-e5eaafa22438)
 
@@ -558,7 +558,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 7번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/6ffeedc2-2895-48dd-95ad-c90f48fbc790)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/7245624f-99c1-47d2-a679-67e36ffdc1e5)
 
@@ -568,7 +568,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 8번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/6fbe2c71-03d0-4bd5-b539-50187ecd2cd6)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/3351fed3-6a03-4362-80b7-25742e07d3b0)
 
@@ -579,7 +579,7 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 #### 9번 파일 mos값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/58b904fa-9f14-49a9-aad2-33e8286553f1)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/d83a7fab-1fd2-45ad-a9b9-e87d9daa2783)
 
