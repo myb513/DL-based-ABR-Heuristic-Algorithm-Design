@@ -452,18 +452,136 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ### tram dataset file 15개 에 대한 기존방식과의 비교 (with lstm)  (0717 - 오후 6시)
 
+#### 48번 파일 mos값 비교
+
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/2e25de7e-2689-4c4d-b3d5-599e70582ca8)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/23e0f3b7-0ce0-4787-bfcd-01cb1b22633e)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/f1974a5d-4e96-4c23-861b-fde538cb689e)
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+#### 49번 파일 mos값 비교
 
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/82a33a2c-6688-469d-996b-9147f1ea1f4c)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/7d886296-5638-4d1e-9194-52528e179e6b)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/79db0afb-70c0-4252-899b-e75358244cc8)
+
+
+#### 5번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/18230d1f-f476-4e24-9499-dd7bf6452914)
 
 
+#### 50번 파일 mos값 비교
 
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/dec70ab4-2236-49af-9601-70eef4a843d3)
+
+
+#### 51번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/2d78fb0e-be8c-4154-93a7-c6236bf7da4d)
+
+
+
+#### 52번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/c4d33dec-b1c3-4b02-a6a9-9a9565e751b5)
+
+
+#### 53번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/69628459-7628-48cf-9f7b-03da8911fbfe)
+
+
+
+#### 54번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/15d45129-4d4c-4f02-84b9-ffe03c1f01b9)
+
+
+
+#### 55번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/5a87f6a7-4f97-4e8a-9186-2047dd4b9914)
+
+
+
+#### 56번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/483c52d4-4793-467b-ba77-92d5b304fd32)
+
+
+
+#### 6번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/05c9406c-ccb2-4baf-92d6-b2f98be8689c)
+
+
+
+#### 7번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/ec607508-7a06-4f18-9b54-5a5e32ec007b)
+
+
+
+#### 8번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/d6a02ebe-12eb-4284-8a04-e403639d53d2)
+
+
+
+
+#### 9번 파일 mos값 비교
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/fcefcefc-cd0f-49ba-820a-9546f3b02532)
 
