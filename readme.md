@@ -439,5 +439,5 @@ Average RMSE for norway_tram: 0.6304184990989777
 >    
 
 <div class="user-image">
-        <img src="코드/LSTM 기반 처리량 예측/시각자료/tram data(파일 순서로 시간 concat).png" alt="" />
+        <img src="코드/LSTM 기반 처리량 예측/수집 대역폭 데이터/시각자료/tram data(파일 순서로 시간 concat).png" alt="" />
 </div>
