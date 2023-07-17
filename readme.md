@@ -441,3 +441,10 @@ Average RMSE for norway_tram: 0.6304184990989777
 <div class="user-image">
         <img src="코드/LSTM 기반 처리량 예측/수집 대역폭 데이터/시각자료/tram data(파일 순서로 시간 concat).png" alt="" />
 </div>
+
+
+### 시간 값을 학습데이터로 받는 문제 해결 (0717 - 오후 4시)
+#### batch = 24 epoch = 10 timestep = 24 lr = 0.01
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/a4e0358a-0927-4153-89b4-8fb143e22ca8)
+
