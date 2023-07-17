@@ -448,3 +448,22 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/a4e0358a-0927-4153-89b4-8fb143e22ca8)
 
+
+
+### tram dataset file 15개 에 대한 기존방식과의 비교 (with lstm)  (0717 - 오후 6시)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/2e25de7e-2689-4c4d-b3d5-599e70582ca8)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/23e0f3b7-0ce0-4787-bfcd-01cb1b22633e)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/f1974a5d-4e96-4c23-861b-fde538cb689e)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/0a3bc8d7-909c-4266-958a-b113656bfb90)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/4a53340d-c091-4597-b41a-3bae1c0209f0)
+
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/18230d1f-f476-4e24-9499-dd7bf6452914)
+
+
+
+
