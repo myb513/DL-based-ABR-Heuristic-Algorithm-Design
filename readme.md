@@ -428,5 +428,16 @@ Average RMSE for norway_tram: 0.6304184990989777
         <img src="코드/LSTM 기반 처리량 예측/시각자료/714-0 avg rmse.png" alt="" />
 </div>
 
+### dataset tram 병합후 일단 tram으로만 실험 진행 (0717 - 오후 1시)
+#### batch 하지말고 1개씩 다 학습해서, 최대한 예측 성능 높이는 데 초점 두자
+#### 학습시간 늦어지면, 514에서 학습 돌려놓기!!
 
+>
+> 1) tram data set을 파일별로 병합함.
+> 2) 시계열 데이터의 흐름을 유지할 수 있게, timestamp는 누적하여 표기함.
+> 3) 데이터의 변동성을 확인해보자
+>    
 
+<div class="user-image">
+        <img src="코드/LSTM 기반 처리량 예측/시각자료/tram data(파일 순서로 시간 concat).png" alt="" />
+</div>
