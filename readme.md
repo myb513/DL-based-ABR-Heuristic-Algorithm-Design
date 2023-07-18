@@ -599,8 +599,10 @@ lstm 값으로 대체 total MOS: 7.691166150937331
 
 ### 파일별 성능 비교 (0718 - 오후 5시)
 #### 두 예측값 비교 그래프 시각화
+#### future bandwidth 값 불러오던 중 발생하는 버그 발견 후 수정
+#### 14개 tram 파일에 대한 기존 예측값과 lstm 예측값, 실제 값 비교
 
-![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/5b2aa9b6-1148-49ff-9ef7-31acae4e3c3d)
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/7e4cc399-3975-4744-bd67-fca8cb0b9ce9)
 
 
 
