@@ -585,3 +585,13 @@ Average RMSE for norway_tram: 0.6304184990989777
 
 ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/fcefcefc-cd0f-49ba-820a-9546f3b02532)
 
+
+### 파일별 성능 비교 (0718 - 오후 3시)
+#### 늦잠 이슈 mos 값 그래프로 그리기.
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/461638a4-344d-42cb-b3e9-9647791d1c62)
+'''
+lstm / (1 + max error) total MOS: 7.455520349144148
+lstm 값으로 대체 total MOS: 7.691166150937331
+기존방법 total MOS: 7.639657021220962
+'''
+
