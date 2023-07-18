@@ -596,3 +596,11 @@ lstm 값으로 대체 total MOS: 7.691166150937331
 기존방법 total MOS: 7.639657021220962
 ```
 
+
+### 파일별 성능 비교 (0718 - 오후 5시)
+#### 두 예측값 비교 그래프 시각화
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/5b2aa9b6-1148-49ff-9ef7-31acae4e3c3d)
+
+
+
