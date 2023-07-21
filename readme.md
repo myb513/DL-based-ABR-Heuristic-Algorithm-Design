@@ -606,3 +606,16 @@ lstm 값으로 대체 total MOS: 7.691166150937331
 
 
 
+### 파일별 성능 비교 (0721 - 오후 5시)
+#### 두 예측값 비교 그래프, QoE지표 비교 (tram data 시뮬레이션 16회 비교)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/8e97da20-9f60-4404-8ce4-995df5009906) ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/8931a515-6033-4bdb-ac6d-656618991c75)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/c55a6a3b-1512-4f5f-bdfe-3a9f56cc37e5) ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/5071046b-c401-4097-b60f-628c4f5a22ef)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/6f950563-4863-4d82-95c1-8cccd8e8aaac) ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/494c305d-66d5-4125-86af-e129e638ae01)
+
+![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/c2783d69-8e26-4f06-b681-28494b03edec) ![image](https://github.com/myb513/DL-based-ABR-Heuristic-Algorithm-Design/assets/80698904/c70363cb-fd8d-458d-ac9b-85c6115d92dc)
+
+
+
